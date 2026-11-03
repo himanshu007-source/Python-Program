@@ -1,0 +1,18 @@
+{
+    "A01": {
+        "Name": "Himanshu Sinha",
+        "Branch": "CSE",
+        "Academic_score": {
+            "maths": 98.0,
+            "eng": 97.0
+        }
+    },
+    "A02": {
+        "Name": "Sahil Sahu",
+        "Branch": "CSE",
+        "Academic_score": {
+            "maths": 79.0,
+            "eng": 98.0
+        }
+    }
+}
